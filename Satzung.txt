@@ -23,6 +23,10 @@ Zweck und Aufgaben des Vereins, Gemeinnützigkeit
 
 5. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine andere steuerbegünstigte Körperschaft zwecks Verwendung für den Pferdesport.
  
+§§ neuer Paragraph mit den drei Arten der Mitgliedschaft
+1. ordentliches Mitglied
+2. Fördendes Mitglied
+3. Ehrenmitglied
 
 §3
 Erwerb der Mitgliedschaft
@@ -31,7 +35,7 @@ Dieser verpflichtet sich damit zur Zahlung der Mitgliedsbeiträge für den besch
 Änderung in der Stamm-Mitgliedschaft sind dem Verein unverzüglich mitzuteilen.
 Der Vorstand und der erweiterte Vorstand entscheidet über den Aufnahmeantrag nach freien Ermessen. Bei Ablehnung des Antrags ist er nicht verpflichtet, dem Antragsteller die Gründe Mitzuteilen. Bei Ablehnung hat der Antragsteller das Recht, eine Mitgliederversammlung einzuberufen.
 
-2. Personen, die dem Verein uneigennützig bei der Erfüllung seiner satzungsmäßigen Aufgaben persönlich, finanziell oder materiell zu unterstützen bereit sind, können vom Vorstand als fördernde Mitglieder aufgenommen werden.
+2. Personen, die dem Verein uneigennützig bei der Erfüllung seiner satzungsmäßigen Aufgaben persönlich, finanziell oder materiell zu unterstützen bereit sind, können vom Vorstand als fördernde Mitglieder aufgenommen werden. Fördernde Mitglieder haben kein Stimmrecht und kein Wahlrecht.
 
 3. Die Mitgliederversammlung kann verdiente Mitglieder und andere Persönlichkeiten, die den Reitsport und die Vereinsarbeit wesentlich gefördert haben, die Ehrenmitgliedschaft auf Lebenszeit erteilen.
 
@@ -80,16 +84,14 @@ Vorstand
 
 2. Dem Vorstand gehören an:
 - Vorsitzender
-- 1. Stellvertreter
-- 2. Stellvertreter
+- Stellvertreter
 - Schatzmeister
 
 3. Dem erweiterten Vorstand gehören an:
-- Schriftführer
 - Technischer Verantwortlicher
 - Jugendwart (gem. Jugendordnung)
 
-4. Vorstand im Sinne des §26 BGB sind der Vorsitzende und die stellvertretenden Vorsitzenden, jeder ist allein vertretungsberechtigt. Im Innungsverhältnis ist der stellvertretende Vorsitzende nur im Falle der Verhinderung des Vorsitzenden zur Vertretung befugt.
+4. Vorstand im Sinne des §26 BGB sind der Vorsitzende und der stellvertretende Vorsitzende, jeder ist allein vertretungsberechtigt. Im Innenverhältnis ist der stellvertretende Vorsitzende nur im Falle der Verhinderung des Vorsitzenden zur Vertretung befugt.
 
 5. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von vier Jahren gewählt. Wiederwahl ist möglich. Scheidet ein Mitglied des Vorstandes während seiner Amtszeit aus, ist von der nächsten Mitgliederversammlung eine Ergänzungswahl durchzuführen. Scheiden der Vorsitzende oder der stellvertretende Vorsitzende während ihrer Amtszeit aus, ist innerhalb von zwei Monaten eine Mitgliederversammlung einzuberufen, welche die Ergänzungswahl durchführt.
 
@@ -98,7 +100,7 @@ Vorstand
 7. Über die Sitzungen des Vorstandes ist eine Niederschrift aufzunehmen, die inhaltlich die Gegenstände der Beratungen und die Beschlüsse verzeichnen muss. Sie ist vom Vorsitzenden Und einem weiterem Vorstandsmitglied zu unterzeichnen.
 
 §9
-Zuständigkeiten und Aufgaben des Vorsitzenden
+Zuständigkeiten und Aufgaben des Vorstandes
 Der Vorstand ist für alle Angelegenheiten des Vereins zuständig.
 Der Vorstand entscheidet über:
 - die Vorbereitung der Mitgliederversammlung und die Ausführung ihrer Beschlüsse
