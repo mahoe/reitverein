@@ -1,14 +1,13 @@
 Pachtvertrag
 
-Zwischen 
-
-  Reitverein Beesenstedt e.V.
+Zwischen Reitverein Beesenstedt e.V. (nachfolgend Reitverein genannt)
   
 und
 
-  Vollständiger Name: ________________________________________________________________________
+  Vollständiger Name:	________________________________________________________________________
   
-  Anschrift:  ________________________________________________________________________
+  Anschrift:	________________________________________________________________________
+  (nachfolgend Einsteller genannt)
   
 
 1. Für die Einstellung von ________ Pferd/en wird/werden ________ Boxen vermietet.
@@ -20,9 +19,7 @@ und
 4. Die monatliche Pacht ist der jeweils gültigen Gebührenordnung zu entnehmen und ist im Voraus bis spätestens zum 10. des laufenden Monats auf das Konto bei der Saalesparkasse zu überweisen.
 
   Zahlungsempfänger: Reitverein Beesenstedt e.V.
-  Name der Bank:  Saalesparkasse
-  IBAN: DE 22 8005 3762 0388 0059 50
-  BIC:  NOLADE21HAL
+  Bank:  Saalesparkasse; IBAN: DE 22 8005 3762 0388 0059 50; BIC: NOLADE21HAL
   
 5. Der Einsteller versichert, dass das Pferd nicht von einer ansteckenden Krankheit befallen ist oder aus einem verseuchten Stall kommt.
 
@@ -42,9 +39,8 @@ und
   Ein bisheriger Pachtvertrag-Vertrag mit dem Reitverein ist mit Unterschrift dieses Vertrages ungültig.
   
 
-
 Beesenstedt, den ________________
 
 
-________________________________  ________________________________
-Einsteller  Reitverein Beesenstedt e.V.
+________________________________	________________________________
+Einsteller	Reitverein Beesenstedt e.V.
