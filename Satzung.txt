@@ -1,8 +1,10 @@
 Satzung des Reitverein Beesenstedt e.V.
 
+
 §1
 Name, Rechtsform und Sitz des Vereins
 Der Reitverein Beesenstedt e.V. mit seinem Sitz in Beesenstedt ist in das Vereinsregister beim Amtsgericht Stendal eingetragen. Der Verein ist Mitglied des KSB Halle und durch den KRV Halle-Saalkreis e.V. Mitglied des Landesverbandes der Reit- und Fahrvereine Sachsen-Anhalt und der Deutschen Reiterlichen Vereinigung (FN).
+
 
 §2
 Zweck und Aufgaben des Vereins, Gemeinnützigkeit
@@ -23,23 +25,22 @@ Zweck und Aufgaben des Vereins, Gemeinnützigkeit
 
 5. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine andere steuerbegünstigte Körperschaft zwecks Verwendung für den Pferdesport.
  
-§§ neuer Paragraph mit den drei Arten der Mitgliedschaft
-1. ordentliches Mitglied
-2. Fördendes Mitglied
-3. Ehrenmitglied
 
 §3
 Erwerb der Mitgliedschaft
-1. Mitglieder können natürliche Personen, juristische Personen und Personenvereinigungen werden. Voraussetzung für den Erwerb der Mitgliedschaft ist ein schriftlicher Aufnahmeantrag, der an den Vorstand gerichtet werden soll. Bei eingeschränkt Geschäftsfähigen, insbesondere Minderjährigen, ist der Antrag auch von dem gesetzlichen Vertreter zu unterschreiben.
+1. Der Reitverein hat ordentliche Mitglieder, fördernde Mitglieder und Ehrenmitglieder.
+
+2. Mitglieder können natürliche Personen, juristische Personen und Personenvereinigungen werden. Voraussetzung für den Erwerb der Mitgliedschaft ist ein schriftlicher Aufnahmeantrag, der an den Vorstand gerichtet werden soll. Bei eingeschränkt Geschäftsfähigen, insbesondere Minderjährigen, ist der Antrag auch von dem gesetzlichen Vertreter zu unterschreiben.
 Dieser verpflichtet sich damit zur Zahlung der Mitgliedsbeiträge für den beschränkt Geschäftsfähigen. Personen die bereits einem Reit- und Fahrverein angehören, müssen eine Erklärung über die Stamm-Mitgliedschaft im Sinne der LPO hinzufügen.
 Änderungen in der Stamm-Mitgliedschaft sind dem Verein unverzüglich mitzuteilen.
 Der Vorstand und der erweiterte Vorstand entscheidet über den Aufnahmeantrag nach freiem Ermessen. Bei Ablehnung des Antrags ist er nicht verpflichtet, dem Antragsteller die Gründe Mitzuteilen. Bei Ablehnung hat der Antragsteller das Recht, eine Mitgliederversammlung einzuberufen.
 
-2. Personen, die dem Verein uneigennützig bei der Erfüllung seiner satzungsmäßigen Aufgaben persönlich, finanziell oder materiell zu unterstützen bereit sind, können vom Vorstand als fördernde Mitglieder aufgenommen werden. Fördernde Mitglieder haben kein Stimmrecht und kein Wahlrecht.
+3. Personen, die dem Verein uneigennützig bei der Erfüllung seiner satzungsmäßigen Aufgaben persönlich, finanziell oder materiell zu unterstützen bereit sind, können vom Vorstand als fördernde Mitglieder aufgenommen werden. Fördernde Mitglieder haben kein Stimmrecht und kein Wahlrecht.
 
-3. Die Mitgliederversammlung kann verdiente Mitglieder und andere Persönlichkeiten, die den Reitsport und die Vereinsarbeit wesentlich gefördert haben, die Ehrenmitgliedschaft auf Lebenszeit erteilen.
+4. Die Mitgliederversammlung kann verdiente Mitglieder und andere Persönlichkeiten, die den Reitsport und die Vereinsarbeit wesentlich gefördert haben, die Ehrenmitgliedschaft auf Lebenszeit erteilen.
 
-4. Mit dem Erwerb der Mitgliedschaft unterwerfen sich die Mitglieder den Satzungen und Ordnungen der Kreisreiterverbände, der Regionalverbände, der Landesverbände und der Reiterlichen Vereinigung (FN)
+5. Mit dem Erwerb der Mitgliedschaft unterwerfen sich die Mitglieder den Satzungen und Ordnungen der Kreisreiterverbände, der Regionalverbände, der Landesverbände und der Reiterlichen Vereinigung (FN)
+
 
 §4
 Beendigung der Mitgliedschaft
@@ -61,6 +62,7 @@ Geschäftsjahr und Mitgliedsbeiträge
 4. Ehrenmitglieder sind von der Pflicht zur Zahlung von Beiträgen befreit.
 5. Der Vorstand kann in geeigneten Fällen Gebühren, Beiträge ganz oder teilweise erlassen oder stunden.
 
+
 §6
 Rechte und Pflichten der Mitglieder
 1. Die Mitglieder sind berechtigt, die Einrichtungen und Anlagen des Vereins zu benutzen und in den Abteilungen des Vereins Sport zu treiben, sowie an den Veranstaltungen des Vereins teilzunehmen.
@@ -77,6 +79,7 @@ Die Organe des Vereins sind:
 - die Mitgliederversammlung
 - der Vorstand
 - der erweiterte Vorstand
+
 
 §8
 Vorstand
@@ -99,6 +102,7 @@ Vorstand
 
 7. Über die Sitzungen des Vorstandes ist eine Niederschrift aufzunehmen, die inhaltlich die Gegenstände der Beratungen und die Beschlüsse verzeichnen muss. Sie ist vom Vorsitzenden und einem weiterem Vorstandsmitglied zu unterzeichnen.
 
+
 §9
 Zuständigkeiten und Aufgaben des Vorstandes
 Der Vorstand ist für alle Angelegenheiten des Vereins zuständig.
@@ -113,11 +117,13 @@ Er hat insbesondere folgende Aufgaben:
 - Vorbereitung der Buchführung, Erstellung des Jahresberichtes,
 - Beschlussfassung über die Aufnahme von Mitgliedern.
 
+
 §10
 Wahl und Amtsdauer des Vorstandes
 1. Der Vorstand wird von der Mitgliederversammlung für die Dauer von vier Jahren, gerechnet von der Wahl an, gewählt. Er bleibt jedoch bis zur Neuwahl des Vorstandes im Amt. Jedes Vorstandsmitglied ist einzeln zu wählen. Zu Vorstandsmitgliedern können nur Mitglieder des Vereins gewählt werden. Mit der Beendigung der Mitgliedschaft im Verein endet auch das Amt eines Vorstandsmitglieds
 
 2. Scheidet ein Mitglied des Vorstandes vorzeitig aus, so kann der Vorstand für die restliche Amtsdauer des Ausgeschiedenen einen Nachfolger wählen.
+
 
 §11
 Mitgliederversammlung
@@ -140,6 +146,7 @@ Erhält keiner der Kandidaten die Mehrheit findet zwischen den beiden Kandidaten
 
 8. Über die Mitgliederversammlung ist eine Niederschrift zu aufzunehmen, welche die Beschlüsse im Wortlaut und die Ergebnisse von Wahlen verzeichnen muss. Sie ist vom Vorsitzenden und dem Schriftführer zu unterschreiben.
 
+
 §12
 Aufgaben der Mitgliederversammlung
 Die Mitgliederversammlung entscheidet über:
@@ -152,6 +159,7 @@ Die Mitgliederversammlung entscheidet über:
 
 Beschlüsse über die Änderung der Satzung und über die Auflösung des Vereins bedürfen einer Mehrheit von drei Vierteln der anwesenden Mitglieder.
 
+
 §13
 Rechtsordnung
 1. Verstöße gegen die LPO und die reiterliche Disziplin können durch Ordnungsmaßnahmen in Regel nur verhängt werden, wenn der Verstoß schuldhaft (mindestens fahrlässig) begangen worden ist, Ausnahmen sind Bestandteil der LPO.
@@ -162,6 +170,7 @@ Rechtsordnung
 3. Die Befugnis, Ordnungsmaßnahmen zu verhängen, übt der Verein, der Landesverband oder die Reiterliche Vereinigung (FN) aus. Gegen die Anordnung der Ordnungsmaßnahmen steht dem Beschuldigten das Recht der Beschwerde zu.
 
 4. Alle näheren Einzelheiten zur Art der Verstöße, zu den Ordnungsmaßnahmen und zum Verfahren werden in der LPO – Teil C, Rechtsordnung geregelt.
+
 
 §14
 Auflösung
