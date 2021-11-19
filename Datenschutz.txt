@@ -1,15 +1,20 @@
-Einwilligungserklärung zum Datenschutz (nach EU-DSGVO und BDSG)
 
-Name:         __________________________
-Vorname:      __________________________
-Geburtsdatum: _____________
+Einwilligungserklärung zum Datenschutz
+(nach EU-DSGVO und BDSG)
 
-Einwilligung zur Datenerhebung, -speicherung, -verarbeitung und -nutzung
+
+
+
+Vollständiger Name: _____________________________________________, Geburtsdatum: _______________________
+
+Einwilligung zur Datenerhebung, -speicherung, -verarbeitung und  -nutzung
+
 Ich bin damit einverstanden, dass der 
   Reitverein Beesenstedt e.V. 
 meine personenbezogenen Daten (Anrede, Titel, Vorname, Name, Anschrift, Geburtsdatum,
 Geschlecht, Telefonnummern, E-Mail-Adresse, Bankdaten, Fotos und vergleichbare Daten)
 sowie Daten für den Pferdesport (Sparte, Lizenzen und vergleichbare Daten) erhebt, speichert, übermittelt, verarbeitet und nutzt.
+
 Die Daten werden dazu verwendet, mich in allen Angelegenheiten, die dem Pferdesport und
 dem Vereinszweck dienen, optimal und umfassend zu informieren, zu beraten und/oder zu
 betreuen. Beispielhaft werden die Daten verwendet um Mitglieds- und sonstige Gebühren zu
@@ -37,5 +42,9 @@ Hiermit bestätige ich, das Vorstehende zur Kenntnis genommen zu haben und ertei
 meiner Unterschrift die Einwilligung.
 
 
-_________________________ ____________________________________________
-Ort, Datum Unterschrift, bei Minderjährigen Erziehungsberechtigter
+
+
+
+
+_________________________	_______________________________________________
+Ort, Datum	Unterschrift, bei Minderjährigen Erziehungsberechtigter
